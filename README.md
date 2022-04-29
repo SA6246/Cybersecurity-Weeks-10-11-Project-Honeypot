@@ -28,7 +28,8 @@ https://user-images.githubusercontent.com/81187590/166075704-e5717b55-bf92-4e98-
   Missed inputs result in `wget` and `pip` commands not working.
   
 ## Summary of data collected
-  
+![image](https://user-images.githubusercontent.com/81187590/166076503-33d17247-baee-4f08-9ed7-4cd422513d01.png)
+
 ## Time Spent
 
 4 hours
