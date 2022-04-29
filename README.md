@@ -15,9 +15,20 @@
 
   # GIF for MHN Admin Application
   
+
+https://user-images.githubusercontent.com/81187590/166075699-278b1fd8-0732-454e-86e7-7976a5228698.mp4
+
+
+
+https://user-images.githubusercontent.com/81187590/166075704-e5717b55-bf92-4e98-815d-3e35030015b3.mp4
+
+
   
 ## Any Issue Encountered
+  Missed inputs result in `wget` and `pip` commands not working.
   
 ## Summary of data collected
   
 ## Time Spent
+
+4 hours
