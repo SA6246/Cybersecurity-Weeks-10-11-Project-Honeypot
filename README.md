@@ -14,7 +14,7 @@
   Milestone 5: Attack!
 
   # GIF for MHN Admin Application
-  <img src="MHN_Admin_Application.gif">
+  
   
 ## Any Issue Encountered
   
